@@ -2,6 +2,9 @@
 
 A responsive and interactive web application that allows users to plan their daily tasks, set reminders, and organize their schedule. This project helps learners understand layout structuring, form handling, DOM manipulation, and persistent storage using localStorage in a real-world context.
 
+🔗 **Live Link:**  
+https://daily-planner-rho-silk.vercel.app/
+
 ## Features
 
 ### Core Features
